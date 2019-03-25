@@ -1,1 +1,25 @@
 some test
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+some more test
+
+
+one more test
+
+
+
+change in master
+
+
+new change in master
+=======
+change in feature
+>>>>>>> feature
+=======
+change in feature
+
+
+some more change
+>>>>>>> feature
