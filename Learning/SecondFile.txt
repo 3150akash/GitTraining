@@ -1,0 +1,4 @@
+diff test
+
+
+some test for 2nd file
